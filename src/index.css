@@ -1,0 +1,12 @@
+body {
+    padding: 50px;
+    background-color:#ffff4d;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+
+}
+
